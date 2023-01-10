@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "MongoDB in Action",
+      "year": 2011,
+      "price": "$38"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript: The Good Parts",
+      "year": 2008,
+      "price": "$21"
+    },
+    {
+      "title": "Head First Java",
+      "year": "2005",
+      "price": "$27",
+      "id": 3
+    },
+    {
+      "title": "Windows Internals",
+      "year": "2012",
+      "price": "$51",
+      "id": 4
+    },
+    {
+      "title": "Python - A entry for ML",
+      "year": "2019",
+      "price": "$11",
+      "id": 5
+    },
+    {
+      "title": "AI - The Almighty",
+      "year": "2019",
+      "price": "$10",
+      "id": 6
+    },
+    {
+      "title": "Ml is universe",
+      "year": "2020",
+      "price": "$11",
+      "id": 7
+    }
+  ]
+}
